@@ -1,0 +1,5 @@
+This github repository is aiming at building the latest Tensorflow whl package from source on multiple platforms.
+
+Version Control
+0.1 : Basic script for ubuntu based on Intel CPU (no GPU)
+0.2 : Improved the script for ubuntu
